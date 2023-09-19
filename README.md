@@ -6,11 +6,9 @@ In this project, we aim to provide a comprehensive view of AdventureWorks' perfo
 
 # Tech Stack Used
 ![image](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/33067886-cf99-4baf-bc97-5e55665d8471)
-
-
 Power Bi
 
-#🛠️ Highlighted Skills in this Project
+# 🛠️ Highlighted Skills in this Project
 
 Data Extraction
 
@@ -34,20 +32,28 @@ You can find the data set here https://www.udemy.com/course/microsoft-power-bi-u
 3 Creating Measures and Calculated Columns with DAX Formulas.
 4 Designing Interactive Dashboards and pages for Visualization Reports.
 
-#Insights
+# Insights
 
-#Data Visualizations:
+# Data Visualizations:
+This section presents a comprehensive collection of interactive visualizations and reports to provide in depth insights into AdventureWorks' performance.
 
-# ![Dashboard_Icon](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/13d09dfa-a7fd-408d-83d8-6c005147657d)
-Executive Summary
-#![Map_Icon](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/d340e05e-a07c-4292-8e03-c8feb4455d84)
+# 📃 Executive Summary
+![image](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/8da1a413-0d52-4a65-b459-da3000bb19b7)
+A succinct summary of the project's objectives and key findings. It's designed to be clear and concise, catering to C-level stakeholders who seek a quick understanding of the project's outcomes. 
 
-Map
+# 🗺️ Map
+![image](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/c1ae0c3c-f5a4-45ad-91e2-aba2a588f14d)
 
-#Product Detail ![Product_Icon](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/8fb1d910-4caa-4b4b-9a0c-58ef1bba752d)
-
-
-#Customer Detail ![Customer_Icon](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/aef4a4d3-8787-42ea-a9c5-ec4b8a650018)
+Explore geographic insights and maps, providing a focused look into AdventureWorks' global presence and distribution strategies across Europe, North America, and the Pacific region.
 
 
-Power BI project analyzing AdventureWorks' overall performance. Visualize data, track financials, and uncover insights."
+# 🏍️ Product Details
+![image](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/2256fcbf-be6b-4d78-a53e-9979ef3f2e48)
+Delve deep into product-related data visualizations to uncover trends, analyze performance metrics, and gain valuable insights into AdventureWorks' diverse product offerings.
+
+# 👥 Customer Details
+![image](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/9d6a61a4-4706-4a48-af9f-6d40b9d482b6)
+Explore customer-centric visualizations that reveal crucial information about demographics, preferences, and behavioral patterns. These insights serve as a foundation for informed marketing and sales strategies.
+
+# End
+Thank you for sticking to the end. Please feel free to connect with me on Linkedin www.linkedin.com/in/ayodejik
