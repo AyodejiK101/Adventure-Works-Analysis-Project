@@ -34,6 +34,12 @@ You can find the data set here https://www.udemy.com/course/microsoft-power-bi-u
 
 # Insights
 
+Key insights about the busniess were generated on the below aspects-
+📈 Analyzed KPIs (sales, revenue, profit, returns)
+🗺️ Compared regional performance
+📊 Studied product-level trends and forecasts
+🎯 Identified high-value customers
+
 # Data Visualizations:
 This section presents a comprehensive collection of interactive visualizations and reports to provide in depth insights into AdventureWorks' performance.
 
