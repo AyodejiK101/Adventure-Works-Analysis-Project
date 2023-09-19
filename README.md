@@ -13,9 +13,14 @@ Power Bi
 #🛠️ Highlighted Skills in this Project
 
 Data Extraction
+
 Data Cleaning
+
 Data Transformation
+
 Data Modeling
+
 Data Visualization
+
 
 Power BI project analyzing AdventureWorks' overall performance. Visualize data, track financials, and uncover insights."
