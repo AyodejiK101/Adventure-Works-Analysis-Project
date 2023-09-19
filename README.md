@@ -6,13 +6,16 @@ In this project, we aim to provide a comprehensive view of AdventureWorks' perfo
 
 # Tech Stack Used
 ![image](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/33067886-cf99-4baf-bc97-5e55665d8471)
+
+
 Power Bi
 
 #🛠️ Highlighted Skills in this Project
--Data Extraction
--Data Cleaning
--Data Transformation
--Data Modeling
--Data Visualization
+
+Data Extraction
+Data Cleaning
+Data Transformation
+Data Modeling
+Data Visualization
 
 Power BI project analyzing AdventureWorks' overall performance. Visualize data, track financials, and uncover insights."
