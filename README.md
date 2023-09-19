@@ -36,8 +36,11 @@ You can find the data set here https://www.udemy.com/course/microsoft-power-bi-u
 
 Key insights about the busniess were generated on the below aspects-
 📈 Analyzed KPIs (sales, revenue, profit, returns)
+
 🗺️ Compared regional performance
+
 📊 Studied product-level trends and forecasts
+
 🎯 Identified high-value customers
 
 # Data Visualizations:
