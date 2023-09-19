@@ -22,5 +22,9 @@ Data Modeling
 
 Data Visualization
 
+# 🗂️ Data Source
+
+The Dataset was provided by Maven Analytics in the Udemy course "Microsoft Power BI Desktop for Business Intelligence (2023)"
+You can find the data set here https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
 
 Power BI project analyzing AdventureWorks' overall performance. Visualize data, track financials, and uncover insights."
