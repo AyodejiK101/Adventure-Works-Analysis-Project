@@ -5,6 +5,6 @@
 In this project, we aim to provide a comprehensive view of AdventureWorks' performance by analyzing data from different facets of the business, such as financials, sales, inventory, and more.
 
 # Tech Stack Used
-![image}(https://user-images.githubusercontent.com/142779836/268680070-36ed481d-3352-4434-87fd-09781e9ae7bd.jpeg)
+![image}(![image](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/6ec272eb-5a29-4111-b8f9-11cf15f17322)
 Power Bi
 Power BI project analyzing AdventureWorks' overall performance. Visualize data, track financials, and uncover insights."
