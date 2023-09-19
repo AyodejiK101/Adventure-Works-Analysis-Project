@@ -27,10 +27,10 @@ You can find the data set here https://www.udemy.com/course/microsoft-power-bi-u
 
 ## Approach to the Project
 
-1 Data Source Connection and Data Shaping in Power Query.
-2 Establishing Table Relationships and Data Model Design.
-3 Creating Measures and Calculated Columns with DAX Formulas.
-4 Designing Interactive Dashboards and pages for Visualization Reports.
+- 1 Data Source Connection and Data Shaping in Power Query.
+- 2 Establishing Table Relationships and Data Model Design.
+- 3 Creating Measures and Calculated Columns with DAX Formulas.
+- 4 Designing Interactive Dashboards and pages for Visualization Reports.
 
 # Insights
 
