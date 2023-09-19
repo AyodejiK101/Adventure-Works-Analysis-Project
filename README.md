@@ -1,31 +1,31 @@
-# Adventure-Works-Analysis-Project
+## Adventure-Works-Analysis-Project
 ![image](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/37c95859-c558-4bc2-9c0f-01ff00b1b36d)
 
-# 💡 Project Description
+## 💡 Project Description
 In this project, we aim to provide a comprehensive view of AdventureWorks' performance by analyzing data from different facets of the business, such as financials, sales, inventory, and more.
 
-# Tech Stack Used
+## Tech Stack Used
 ![image](https://github.com/AyodejiK101/Adventure-Works-Analysis-Project/assets/140984130/33067886-cf99-4baf-bc97-5e55665d8471)
 Power Bi
 
-# 🛠️ Highlighted Skills in this Project
+## 🛠️ Highlighted Skills in this Project
 
-Data Extraction
+- Data Extraction
 
-Data Cleaning
+- Data Cleaning
 
-Data Transformation
+- Data Transformation
 
-Data Modeling
+- Data Modeling
 
-Data Visualization
+- Data Visualization
 
-# 🗂️ Data Source
+## 🗂️ Data Source
 
 The Dataset was provided by Maven Analytics in the Udemy course "Microsoft Power BI Desktop for Business Intelligence (2023)"
 You can find the data set here https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
 
-# Approach to the Project
+## Approach to the Project
 
 1 Data Source Connection and Data Shaping in Power Query.
 2 Establishing Table Relationships and Data Model Design.
@@ -35,13 +35,13 @@ You can find the data set here https://www.udemy.com/course/microsoft-power-bi-u
 # Insights
 
 Key insights about the busniess were generated on the below aspects-
-📈 Analyzed KPIs (sales, revenue, profit, returns)
+- 📈 Analyzed KPIs (sales, revenue, profit, returns)
 
-🗺️ Compared regional performance
+- 🗺️ Compared regional performance
 
-📊 Studied product-level trends and forecasts
+- 📊 Studied product-level trends and forecasts
 
-🎯 Identified high-value customers
+- 🎯 Identified high-value customers
 
 # Data Visualizations:
 This section presents a comprehensive collection of interactive visualizations and reports to provide in depth insights into AdventureWorks' performance.
